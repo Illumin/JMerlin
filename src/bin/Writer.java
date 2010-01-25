@@ -1,6 +1,6 @@
 package bin;
 /*
- * Klasse fürs schreiben im chat
+ * Klasse fuers schreiben im chat
  */
 public class Writer {
 	String channel;

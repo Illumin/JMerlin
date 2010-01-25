@@ -1,5 +1,5 @@
 package bin;
- 
+
   
  public class msg {
      public String Message = "";
